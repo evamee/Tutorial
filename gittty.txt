@@ -1,1 +1,2 @@
-My name is Evame Cobblah.
+My name is Evame Cobblah. 
+Selase is helping me with git.
